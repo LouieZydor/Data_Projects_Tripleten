@@ -48,6 +48,6 @@ answer them effectively. Which I then turned those worksheets into a Dashboard a
 ### Results
 
 The results are explained in greater detail through the presentation document and slideshow. But it was shown that there were slight correlations between returns and the season, along with trends in returns when there are higher discounts applied.
-
+![image](src/image/Dashboard.png)
 The full Tableau worksheet can be found here:
 https://public.tableau.com/app/profile/louis.zydor/viz/Storytelling_Project_Final/Sheet1#1
